@@ -3,7 +3,7 @@ package Aula_01;
 import java.util.Scanner;
 
 public class ConversorDeTemperatura {
-    public static void conversor(String[] args) {
+    public static void conversor() {
         Scanner sc = new Scanner(System.in);
 
         float temperaturaConvertida = 0;
