@@ -10,6 +10,7 @@ public class Main {
 //        MenorValor.recebeValores();
 //        Operacoes.operacoes();
 //        MediaArray.main();
-        MediaNotasAluno.mediaNota(85);
+//        MediaNotasAluno.mediaNota(85);
+        SwitchCase.EstamosEmQualMes(12);
     }
 }
