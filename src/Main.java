@@ -2,6 +2,7 @@ import Aula_01.*;
 import Aula_02.*;
 import Aula_03.*;
 import Aula_04.*;
+import Aula_05.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,6 +12,7 @@ public class Main {
 //        Operacoes.operacoes();
 //        MediaArray.main();
 //        MediaNotasAluno.mediaNota(85);
-        SwitchCase.EstamosEmQualMes(12);
+//        SwitchCase.EstamosEmQualMes(12);
+        ExampleMatriz.imprimeMatriz(10, 15);
     }
 }
