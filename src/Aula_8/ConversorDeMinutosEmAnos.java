@@ -6,7 +6,7 @@ public class ConversorDeMinutosEmAnos {
 
     public static void conversor() {
         final int anosEmMinutos = 525600;
-        final int diasEmMinutos = 1400;
+        final int diasEmMinutos = 1440;
         Scanner sc = new Scanner(System.in);
         double anos, dias;
 
