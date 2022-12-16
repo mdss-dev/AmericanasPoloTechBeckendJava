@@ -1,4 +1,4 @@
-package Aula_03;
+package LogicaDeProgramacao.Aula_03;
 
 import java.util.Arrays;
 

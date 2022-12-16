@@ -1,4 +1,4 @@
-package Aula_05;
+package LogicaDeProgramacao.Aula_05;
 
 public class ExampleMatriz {
     public static void imprimeMatriz(int linhas, int colunas) {

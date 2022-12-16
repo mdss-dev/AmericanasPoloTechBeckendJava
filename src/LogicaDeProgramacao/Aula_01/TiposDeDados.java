@@ -1,4 +1,4 @@
-package Aula_01;
+package LogicaDeProgramacao.Aula_01;
 
 public class TiposDeDados {
     public static void tiposDeDados() {

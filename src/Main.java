@@ -1,9 +1,4 @@
-import Aula_01.*;
-import Aula_02.*;
-import Aula_03.*;
-import Aula_04.*;
-import Aula_05.*;
-import Aula_08.ConversorDeMinutosEmAnos;
+import LogicaDeProgramacao.Aula_08.ConversorDeMinutosEmAnos;
 
 
 public class Main {

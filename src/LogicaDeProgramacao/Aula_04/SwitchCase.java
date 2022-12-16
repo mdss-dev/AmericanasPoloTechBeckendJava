@@ -1,4 +1,4 @@
-package Aula_04;
+package LogicaDeProgramacao.Aula_04;
 
 public class SwitchCase {
     public static String EstamosEmQualMes(int mes) {

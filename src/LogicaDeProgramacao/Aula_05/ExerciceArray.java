@@ -1,7 +1,5 @@
-package Aula_05;
+package LogicaDeProgramacao.Aula_05;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 public class ExerciceArray {
     public static void main(String[] args) {
         int[] my_array1 =
