@@ -54,11 +54,11 @@
 }</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="ExampleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula_05.ExampleArray" />
+      <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.Aula_05.ExampleArray" />
       <module name="AmericanaPoloTechJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula_05.*" />
+          <option name="PATTERN" value="LogicaDeProgramacao.Aula_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +67,11 @@
       </method>
     </configuration>
     <configuration name="ExampleMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula_05.ExampleMatriz" />
+      <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.Aula_05.ExampleMatriz" />
       <module name="AmericanaPoloTechJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula_05.*" />
+          <option name="PATTERN" value="LogicaDeProgramacao.Aula_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +80,11 @@
       </method>
     </configuration>
     <configuration name="ExerciceArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula_05.ExerciceArray" />
+      <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.Aula_05.ExerciceArray" />
       <module name="AmericanaPoloTechJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula_05.*" />
+          <option name="PATTERN" value="LogicaDeProgramacao.Aula_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="OrderArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula_05.OrderArrayExample" />
+      <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.Aula_05.OrderArrayExample" />
       <module name="AmericanaPoloTechJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula_05.*" />
+          <option name="PATTERN" value="LogicaDeProgramacao.Aula_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
