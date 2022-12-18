@@ -1,4 +1,4 @@
-<h1 align="center">AmericanasPoloTechBeckendJava</h1>
+<h1 align="center">AmericanasPoloTechBackendJava</h1>
 
 <h1 align="center">
     <a href="https://polotech.americanas.io/">
@@ -24,7 +24,7 @@
 </p>
 
 <h2 align="center">
-    A trilha que escolhi foi a de BECK-END na linguagem JAVA!
+    A trilha que escolhi foi a de BACK-END na linguagem JAVA!
 </h2>
 <p align="center">
     Nesta trilha, vou aprender a integrar os bancos de dados e as
