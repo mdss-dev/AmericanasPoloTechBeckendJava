@@ -17,6 +17,7 @@ public class ConversorDeMinutosEmAnos {
         dias =  (minutos/diasEmMinutos) - (anos * 365);
 
         System.out.printf("Os minutos digitados correspondem a %.2f anos e %.2f dias", anos, dias);
+        System.out.println();
 
     }
 

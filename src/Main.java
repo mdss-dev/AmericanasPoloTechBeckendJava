@@ -1,9 +1,10 @@
+import LogicaDeProgramacao.Aula_01.ConversorDeTemperatura;
 import LogicaDeProgramacao.Aula_08.ConversorDeMinutosEmAnos;
 
 
 public class Main {
     public static void main(String[] args) {
-//        ConversorDeTemperatura.conversor();
+        ConversorDeTemperatura.conversor();
 //        TiposDeDados.tiposDeDados();
 //        MenorValor.recebeValores();
 //        Operacoes.operacoes();
