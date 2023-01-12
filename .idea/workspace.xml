@@ -5,10 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c7c54a8-4f7a-4719-9a9f-5648ad576288" name="Changes" comment="Readme Atualizado!">
-      <change afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/EnumMarca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/modulo_2/programaçaoOrientadaAObjetos_1/concessionaria/dicas/enumerador/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/modulo_2/programaçaoOrientadaAObjetos_1/concessionaria/dicas/enumerador/TesteEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/modulo_2/programaçaoOrientadaAObjetos_1/concessionaria/dicas/enumerador/TipoProdutoEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/TesteCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_01/ConversorDeTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_01/ConversorDeTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_01/TiposDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_01/TiposDeDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_02/MenorValor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_02/MenorValor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_03/MediaArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_03/MediaArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_03/Operacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_03/Operacoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_04/MediaNotasAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_04/MediaNotasAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_04/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_04/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_05/ExampleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_05/ExampleArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_05/ExampleMatriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_05/ExampleMatriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_05/ExerciceArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_05/ExerciceArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_05/OrderArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_05/OrderArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Aula_08/ConversorDeMinutosEmAnos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Aula_08/ConversorDeMinutosEmAnos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/logicaDeProgramacao/modulo_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_1/logicaDeProgramacao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_2/programaçaoOrientadaAObjetos_1/concessionaria/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/EnumMarca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_2/programaçaoOrientadaAObjetos_1/concessionaria/EnumMarca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_2/programaçaoOrientadaAObjetos_1/concessionaria/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_2/programaçaoOrientadaAObjetos_1/concessionaria/TesteCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/TesteMoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/modulo_2/programaçaoOrientadaAObjetos_1/concessionaria/TesteMoto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>

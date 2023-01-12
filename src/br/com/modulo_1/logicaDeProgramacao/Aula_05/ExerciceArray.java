@@ -1,4 +1,4 @@
-package br.com.logicaDeProgramacao.modulo_1.Aula_05;
+package br.com.modulo_1.logicaDeProgramacao.Aula_05;
 
 public class ExerciceArray {
     public static void main(String[] args) {

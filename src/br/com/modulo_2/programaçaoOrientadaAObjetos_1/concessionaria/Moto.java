@@ -1,4 +1,4 @@
-package br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria;
+package br.com.modulo_2.programaçaoOrientadaAObjetos_1.concessionaria;
 
 public class Moto {
     String cor;

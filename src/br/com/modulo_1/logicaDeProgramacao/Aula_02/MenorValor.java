@@ -1,4 +1,4 @@
-package br.com.logicaDeProgramacao.modulo_1.Aula_02;
+package br.com.modulo_1.logicaDeProgramacao.Aula_02;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,11 +1,13 @@
-package br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria;
+package br.com.modulo_2.programaçaoOrientadaAObjetos_1.concessionaria;
 
 public class Carro {
 
     Carro(){
+        pontoMorto();
     }
 
     Carro(EnumMarca marca){
+        pontoMorto();
         this.marca = marca;
     }
     String motor;
@@ -21,20 +23,24 @@ public class Carro {
     int velocidadeMaxima;
     int velocidadeAtual;
 
-    int obterVelocidadeMaxima(){
-        return velocidadeMaxima;
-    }
-
     void ligar(){
         System.out.println("Carro ligado com chave...");
     }
 
-    void ligar(String comandoDeVoz){
-        System.out.println("Carro ligado com comando de voz..." + comandoDeVoz);
+    int obterVelocidadeMaxima(){
+        return velocidadeMaxima;
     }
 
     void acelerar(int aumentoDeVelocidade){
         velocidadeAtual += aumentoDeVelocidade;
+    }
+
+    void pontoMorto(){
+        System.out.println("Carro no ponto morto");
+    }
+
+    void ligar(String comandoDeVoz){
+        System.out.println("Carro ligado com comando de voz..." + comandoDeVoz);
     }
 
     void desacelerar(int diminuicaoDeVelocidade){

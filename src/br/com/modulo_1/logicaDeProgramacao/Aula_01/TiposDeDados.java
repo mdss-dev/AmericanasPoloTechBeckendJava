@@ -1,4 +1,4 @@
-package br.com.logicaDeProgramacao.modulo_1.Aula_01;
+package br.com.modulo_1.logicaDeProgramacao.Aula_01;
 
 public class TiposDeDados {
     public static void tiposDeDados() {
