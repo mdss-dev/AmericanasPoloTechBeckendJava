@@ -1,4 +1,4 @@
-package LogicaDeProgramacao.Aula_04;
+package br.com.logicaDeProgramacao.modulo_1.Aula_04;
 
 public class MediaNotasAluno {
     public static void mediaNota(int nota) {

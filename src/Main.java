@@ -1,5 +1,5 @@
-import LogicaDeProgramacao.Aula_01.ConversorDeTemperatura;
-import LogicaDeProgramacao.Aula_08.ConversorDeMinutosEmAnos;
+import br.com.logicaDeProgramacao.modulo_1.Aula_01.ConversorDeTemperatura;
+import br.com.logicaDeProgramacao.modulo_1.Aula_08.ConversorDeMinutosEmAnos;
 
 
 public class Main {

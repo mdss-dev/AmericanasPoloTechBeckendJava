@@ -1,4 +1,4 @@
-package LogicaDeProgramacao.Aula_03;
+package br.com.logicaDeProgramacao.modulo_1.Aula_03;
 
 public class Operacoes {
     public static void operacoes() {
