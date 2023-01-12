@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c7c54a8-4f7a-4719-9a9f-5648ad576288" name="Changes" comment="Readme Atualizado!">
-      <change afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/TesteConcessionaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/TesteMoto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/TesteCarro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -95,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="TesteCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionariaVeiculos.TesteCarro" />
+      <option name="MAIN_CLASS_NAME" value="br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria.TesteCarro" />
       <module name="AmericanaPoloTechJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionariaVeiculos.*" />
+          <option name="PATTERN" value="br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="TesteMoto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionariaVeiculos.TesteMoto" />
+      <option name="MAIN_CLASS_NAME" value="br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria.TesteMoto" />
       <module name="AmericanaPoloTechJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionariaVeiculos.*" />
+          <option name="PATTERN" value="br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

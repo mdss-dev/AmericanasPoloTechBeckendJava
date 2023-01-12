@@ -1,4 +1,4 @@
-package br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionariaVeiculos;
+package br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria;
 
 public class TesteCarro {
     public static void main(String[] args) {
@@ -13,10 +13,20 @@ public class TesteCarro {
         carro1.estiloDeCombustivel = "Gasolina";
         carro1.motor = "180 Cavalos";
         carro1.preco = 170_000.00;
+        carro1.velocidadeMaxima = 230;
 
+        System.out.println(carro1.obterVelocidadeMaxima());
+        carro1.ligar();
+        carro1.acelerar(120);
         System.out.println(carro1);
 
-        Carro carro2 = new Carro();
+        carro1.acelerar(30);
+        System.out.println(carro1);
+
+        carro1.morrer();
+        System.out.println(carro1);
+
+        /*Carro carro2 = new Carro();
         carro2.marca = "VW";
         carro2.modelo = "GOL";
         carro2.cor = "AZUL";
@@ -28,7 +38,7 @@ public class TesteCarro {
         carro2.motor = "8 valvulas";
         carro2.preco = 35_000.00;
 
-        System.out.println(carro2);
+        System.out.println(carro2);*/
 
     }
 }

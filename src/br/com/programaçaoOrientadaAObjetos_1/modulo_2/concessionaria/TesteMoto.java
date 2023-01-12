@@ -1,4 +1,4 @@
-package br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionariaVeiculos;
+package br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria;
 
 public class TesteMoto {
     public static void main(String[] args) {
