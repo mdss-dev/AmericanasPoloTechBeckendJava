@@ -1,11 +1,18 @@
 package br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria;
 
 public class Carro {
+
+    Carro(){
+    }
+
+    Carro(EnumMarca marca){
+        this.marca = marca;
+    }
     String motor;
     int numeroDeRodas;
     int anoDeFabricao;
     String cor;
-    String marca;
+    EnumMarca marca;
     String modelo;
     String estiloDeCombustivel;
     double preco;
@@ -19,7 +26,11 @@ public class Carro {
     }
 
     void ligar(){
-        System.out.println("Carro ligado...");
+        System.out.println("Carro ligado com chave...");
+    }
+
+    void ligar(String comandoDeVoz){
+        System.out.println("Carro ligado com comando de voz..." + comandoDeVoz);
     }
 
     void acelerar(int aumentoDeVelocidade){

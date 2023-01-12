@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c7c54a8-4f7a-4719-9a9f-5648ad576288" name="Changes" comment="Readme Atualizado!">
+      <change afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/EnumMarca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionariaVeiculos/TesteCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/programaçaoOrientadaAObjetos_1/modulo_2/concessionaria/TesteCarro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -57,7 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TesteMoto">
+  <component name="RunManager" selected="Application.TesteCarro">
     <configuration name="ExampleMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.Aula_05.ExampleMatriz" />
       <module name="AmericanaPoloTechJava" />
@@ -119,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteMoto" />
         <item itemvalue="Application.TesteCarro" />
+        <item itemvalue="Application.TesteMoto" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ExampleMatriz" />
         <item itemvalue="Application.ExerciceArray" />

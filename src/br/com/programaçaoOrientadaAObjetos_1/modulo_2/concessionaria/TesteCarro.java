@@ -2,8 +2,7 @@ package br.com.programaçaoOrientadaAObjetos_1.modulo_2.concessionaria;
 
 public class TesteCarro {
     public static void main(String[] args) {
-        Carro carro1 = new Carro();
-        carro1.marca = "FIAT";
+        Carro carro1 = new Carro(EnumMarca.FIAT);
         carro1.modelo = "SUV";
         carro1.cor = "PRETO";
         carro1.numeroDeRodas = 5;
