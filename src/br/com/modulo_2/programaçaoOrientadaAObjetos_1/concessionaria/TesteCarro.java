@@ -3,16 +3,18 @@ package br.com.modulo_2.programaçaoOrientadaAObjetos_1.concessionaria;
 public class TesteCarro {
     public static void main(String[] args) {
         Carro carro1 = new Carro(EnumMarca.FIAT);
-        carro1.modelo = "SUV";
-        carro1.cor = "PRETO";
-        carro1.numeroDeRodas = 5;
-        carro1.aroRoda = 19;
-        carro1.anoDeFabricao = 2022;
-        carro1.dono = "Michael Douglas";
-        carro1.estiloDeCombustivel = "Gasolina";
-        carro1.motor = "180 Cavalos";
-        carro1.preco = 170_000.00;
-        carro1.velocidadeMaxima = 230;
+        carro1.setModelo("SUV");
+        carro1.setCor("PRETO");
+        carro1.setNumeroDeRodas(5);
+        carro1.setAroRoda(19);
+        carro1.setAnoDeFabricao(2022);
+        carro1.setDono("Michael Douglas");
+        carro1.setEstiloDeCombustivel("Gasolina");
+        carro1.setMotor("180 Cavalos");
+        carro1.setPreco(170_000.00);
+        carro1.setVelocidadeMaxima(230);
+
+        System.out.println(carro1.getNumeroDeRodas());
 
         System.out.println(carro1.obterVelocidadeMaxima());
         carro1.ligar();
